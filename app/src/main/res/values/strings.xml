@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login_username">Login</string>
+</resources>
